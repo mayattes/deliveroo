@@ -1,0 +1,15 @@
+.inlineMenu li {
+    list-style-type: none;
+}
+.inlineMenu {
+    -webkit-padding-start: 0;
+    width: 370px;
+    flex: 1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    font-size: 15px;
+    line-height: 15px;
+    color: turquoise;
+}

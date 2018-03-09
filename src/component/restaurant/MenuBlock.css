@@ -1,0 +1,9 @@
+.container-menu {
+    flex: 1
+}
+.title-block {
+    /* width: 1024px; */
+    flex: 1;
+    align-items: flex-start
+    
+}

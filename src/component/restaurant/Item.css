@@ -1,0 +1,25 @@
+.item {
+    border: solid 1px gray;
+    margin: 30px;
+    cursor: pointer;
+    background-color: white;
+}
+.item:hover {
+    background-color: pink;
+}
+.bloc-item {
+   flex: 1;
+}
+
+.item .picture-item {
+    width: 96px;
+    height: 96px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.picture-item > img {
+    object-fit: cover;
+    object-position: center;
+    width: 100%;
+    height: 100%;
+}

@@ -1,0 +1,20 @@
+nav {
+    flex: 1
+}
+.deliveroo {
+    height: 100px;
+    width: 200px;
+}
+
+span {
+    inline-size: auto;
+
+}
+
+i {
+    color: turquoise
+}
+
+a {
+    color: gray
+}
